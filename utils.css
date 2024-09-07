@@ -1,0 +1,20 @@
+.text-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  padding: 5px 2px;
+  color: white;
+  background: var(--main-bg-color);
+  border: 2px solid white;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.my-2{
+  margin: 26px 0;
+}
+.text-center{
+  text-align: center;
+}
